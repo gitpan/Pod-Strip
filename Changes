@@ -1,0 +1,30 @@
+#-----------------------------------------------------------------
+# Changes
+# $Rev: 12 $
+# $Date: 2004-10-05 21:22:35 +0200 (Tue, 05 Oct 2004) $ 
+#-----------------------------------------------------------------
+
+
+2004-10-05       this is Pod-Strip-1.00 (first release on CPAN)
+----------
+* added license to Build.PL
+* some more changes in Build.PL
+
+
+
+2004-09-30       this is Pod-Strip-0.02
+----------
+* added replace_with_comments, based on patches submitted by
+  John McNamara <jmcnamara@cpan.org>
+  
+
+
+2004-09-29       this is Pod-Strip-0.01
+----------
+* updated docs, tests, MANIFEST, etc
+
+
+
+2004-09-28
+----------
+* initial version, done with Module::Starter and some manual tweaking

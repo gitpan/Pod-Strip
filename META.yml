@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name: Pod-Strip
+version: 1.00
+author: Thomas Klausner <domm@zsi.at>
+abstract: Remove POD from Perl code
+license: perl
+requires:
+  Pod::Simple: 3.00
+  Test::More: 0
+provides:
+  Pod::Strip:
+    file: lib/Pod/Strip.pm
+    version: 1.00
+generated_by: Module::Build version 0.25
