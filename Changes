@@ -5,6 +5,13 @@
 #-----------------------------------------------------------------
 
 
+2005-11-07
+----------
+!! release Pod-Strip-1.01
+* removed typo in docs (RT #15392 reported by schubiger@cpan.org)
+
+
+
 2004-10-05       this is Pod-Strip-1.00 (first release on CPAN)
 ----------
 * added license to Build.PL
