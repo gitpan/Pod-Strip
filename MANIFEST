@@ -1,6 +1,7 @@
 Build.PL
 Changes
 lib/Pod/Strip.pm
+Makefile.PL
 MANIFEST
 META.yml			# Will be created by "make dist"
 README

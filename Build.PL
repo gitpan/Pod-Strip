@@ -12,6 +12,7 @@ my $builder = Module::Build->new(
         'Pod::Simple' => '3.00',
     },
     add_to_cleanup      => [ 'Pod-Strip-*' ],
+    create_makefile_pl  => 'traditional',
 );
 
 $builder->create_build_script();
